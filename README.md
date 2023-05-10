@@ -28,4 +28,3 @@ Your mark will depend on two factors: how well your code fulfills the task (incl
 ![Parameters](graphs_anims/parameters.png)
 ![help](graphs_anims/300x300.gif)
 ![Ill](graphs_anims/ill.png)
-![R0](graphs_anims/R0.png)
